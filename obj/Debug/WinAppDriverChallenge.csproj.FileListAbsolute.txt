@@ -1,0 +1,78 @@
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.pdb
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Appium.Net.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Castle.Core.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WebDriver.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Castle.Core.xml
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.pdb
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.xml
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WebDriver.xml
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.xml
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CopyComplete
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.pdb
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\nunit.engine.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\nunit.engine.api.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\jacs\Desktop\WinAppDriverChallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csprojAssemblyReference.cache
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csprojAssemblyReference.cache
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.pdb
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\nunit.engine.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\nunit.engine.api.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.pdb
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Appium.Net.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Castle.Core.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WebDriver.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.dll
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Castle.Core.xml
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.pdb
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\nunit.framework.xml
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WebDriver.xml
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.xml
+C:\Users\cbp\Documents\WinAppDriverRepositorio\winappdriverchallenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CopyComplete
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\nunit.engine.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\nunit.engine.api.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WinAppDriverChallenge.pdb
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Appium.Net.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Castle.Core.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\nunit.framework.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.PageObjects.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\SeleniumExtras.WaitHelpers.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WebDriver.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Castle.Core.xml
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\Newtonsoft.Json.xml
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\nunit.framework.pdb
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\nunit.framework.xml
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WebDriver.xml
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\bin\Debug\WebDriver.Support.xml
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csprojAssemblyReference.cache
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CoreCompileInputs.cache
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.csproj.CopyComplete
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.dll
+C:\Users\yta\Documents\Treinamento de Automação\Challenge\WinAppDriverChallenge\obj\Debug\WinAppDriverChallenge.pdb
